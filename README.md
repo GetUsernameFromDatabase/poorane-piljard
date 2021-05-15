@@ -9,4 +9,4 @@ The game is configurable and can function if resources [(Andmed)](Andmed/) are m
 The primary goal of this project was to just make a game that runs\
 It took me about 3 months to write over 2200 lines of python code. Starting with only knowledge from a beginners course
 
-I'm putting this here just to have less code laying around and in case I want to 
+I'm putting this here just to have less code laying around and in case I want to refactor it (which it honestly needs)
