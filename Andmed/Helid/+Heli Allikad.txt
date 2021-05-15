@@ -1,0 +1,29 @@
+Kõik muudatused on tehtud kasutades SoX-i (Sound eXchange) http://sox.sourceforge.net/
+
+Ehmatus.wav on mu enda tehtud kasutades bfxr -i ja siis muudetud riaa käsuga SoX -is
+
+Järgmised helifailid on saadud kohast "https://freesound.org/"
+
+Laua_Põrge.wav - Üles laetud 11-ndal septembril 2009, kasutaja tymaue poolt. 
+Võetud on alates 3s ja 353ms, 288ms, millest on kustutatud ära kõik helisagedused üle 1200Hz.
+Bassi on 250Hz suurendatud 5dB võrra, helitugevus on kahekordistatud, siis on triangulaarse faaseriga (arv, mida kasutasin oli 0.4) üle lastud, ei tea mida see täpselt teeb, aga tundus, et heli läks vaiksemaks, aga tegi heli tuhmemaks minu jaoks.
+https://freesound.org/people/tymaue/sounds/79349/
+
+Põrge.wav - Üles laetud 11-ndal novembril 2010, kasutaja juskiddink -i poolt. 
+Heli on lühendatud lõpust alates 33ms võrra.
+https://freesound.org/people/juskiddink/sounds/108615/
+
+Kaotus.wav - Üles laetud 24-ndal märtsil 2014, kasutaja steel2008 poolt.
+Võetud on terve fail.
+https://freesound.org/people/steel2008/sounds/231279/
+
+Võit.wav - Üles laetud 16-ndal veebruaril 2016, kasutaja Kubatko poolt. 
+Võetud on terve fail.
+https://freesound.org/people/Kubatko/sounds/336725/
+
+Pall_Sisse.wav - Üles laetud 14-ndal oktoobril 2018, kasutaja AmberdeMeillon-i poolt.
+Võetud on alates  3s ja 632ms, 1s ja 339ms
+Bitikiirus ja bitisügavus on madaldatud
+SoX-iga sain bitikiiruse 96k pealt 48k. Kui üritasin bitisügavus 24biti pealt 16-le saada, siis ei olnud heli tuntav. Selle jaoks kasutasin Audio Converter 5, mis kahjuks poolitas mu heli, kuna kasutasin prooviversiooni.
+Ei kasutanud SoX-i s
+https://freesound.org/people/AmberdeMeillon/sounds/443057/
